@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dvd-screensaver": {
+      "commandName": "Project",
+      "commandLineArgs": "/s"
+    }
+  }
+}
