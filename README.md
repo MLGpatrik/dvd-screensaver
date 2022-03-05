@@ -1,6 +1,6 @@
 # dvd-screensaver
 
-Download `dvd-screensaver.scr` to use it right away.
+You need everything from the `net5.0-windows` folder.
 
 After Download right click on the `.scr` file and then Install.
 
