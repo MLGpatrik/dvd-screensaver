@@ -1,16 +1,16 @@
 # dvd-screensaver
 
-You need everything from the `net5.0-windows` folder.
+![gif demo](resource/screensaver.gif)
 
-After Download right click on the `.scr` file and then Install.
-
-## If you want no changing color
-
-Right click on `.scr` -> configure, untick the RGB checkbox, and select the color then press `OK`.
-
-
+## Requirements:
 .NET 5.0.0 required:
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-5.0.14-windows-x64-installer
 
-You may also need .Net sdk:
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-5.0.405-windows-x64-installer
+## How to install:
+Right click and then click install.
+
+## How to configure:
+
+## If you want the screensaver without changing color
+
+Right click on the screensaver -> configure, untick the RGB checkbox, and select the color then press `OK`.
