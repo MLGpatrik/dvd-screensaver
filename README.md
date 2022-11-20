@@ -1,4 +1,4 @@
-# dvd-screensaver
+# DVD Screensaver
 
 ![gif demo](resource/screensaver.gif)
 
