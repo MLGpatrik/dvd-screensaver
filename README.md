@@ -3,7 +3,7 @@
 ![gif demo](resource/screensaver.gif)
 
 ## Requirements:
-.NET 5.0.0 required:
+.NET 5.0 required:
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-5.0.14-windows-x64-installer
 
 ## How to install:
